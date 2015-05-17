@@ -4,3 +4,6 @@
 [submodule "i3"]
 	path = i3
 	url = https://github.com/Andersbiha/i3
+[submodule "conky"]
+	path = conky
+	url = https://github.com/Andersbiha/conky
