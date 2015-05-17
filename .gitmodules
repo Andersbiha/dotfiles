@@ -10,3 +10,6 @@
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/Andersbiha/ranger
+[submodule "vim"]
+	path = vim
+	url = https://github.com/Andersbiha/vim
