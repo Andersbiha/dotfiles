@@ -7,3 +7,6 @@
 [submodule "conky"]
 	path = conky
 	url = https://github.com/Andersbiha/conky
+[submodule "ranger"]
+	path = ranger
+	url = https://github.com/Andersbiha/ranger
