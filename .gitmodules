@@ -13,3 +13,9 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/Andersbiha/vim
+[submodule "bash"]
+	path = bash
+	url = https://github.com/Andersbiha/bash
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/Andersbiha/zsh
